@@ -1,0 +1,41 @@
+.preImg {
+    height: 250px;
+}
+
+body{
+    background-image: url("images/pexels-marina-leonova-7634769.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+
+.myDiv{
+    background-color: rgba(0, 0, 0, 0.452);
+
+}
+
+.my_card{
+    min-height: 250px;
+}
+
+.myImg{
+    height: 180px;;
+}
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.452);
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+
+.myFooter{
+    background-color: rgba(0, 0, 0, 0.452);
+    color: white;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    }
